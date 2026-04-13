@@ -20,6 +20,5 @@ git clone https://github.com/AdithyaRcodeavance/Azure_Devops_P1.git
 cd Azure_Devops_P1
 git checkout development
 
-----------
 pull → branch → work → push 
 
